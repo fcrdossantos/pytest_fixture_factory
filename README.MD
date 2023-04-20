@@ -107,3 +107,9 @@ For example:
 - Remove the CSV file...
 
 This method is executed only once, after the last 'create' method call.
+
+# Running Tests
+
+I left an working example on this repo, you can run it using:
+
+```pytest tests```
